@@ -1,2 +1,1 @@
-# Rotating-Planets
-Rotating Planets
+# Rotating Planets
