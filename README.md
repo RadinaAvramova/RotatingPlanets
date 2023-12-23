@@ -1,3 +1,4 @@
 # Rotating Planets
 
-This is a project where 3 planets are rotating across the Sun.
+The Rotating Planets project is a visually stunning demonstration that utilizes CSS to display and animate rotating planets. It's a captivating experience that brings the beauty of our solar system to your screen.
+
